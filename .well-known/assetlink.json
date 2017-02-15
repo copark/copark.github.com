@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+        "namespace": "android_app",
+        "package_name": "com.cosooki.mysample",
+        "sha256_cert_fingerprints":
+        ["BA:E0:BB:53:1E:3E:F0:40:16:AB:2F:F5:10:68:3D:CD:E5:51:2D:6A:9C:9C:73:28:98:81:97:EB:DB:25:DD:4F"]
+    }
+}]
+
